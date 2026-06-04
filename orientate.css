@@ -1,0 +1,107 @@
+/*
+-------------------------------------------------------------------------------------------------------------------------------
+Late Blooming Effects Studio - The Cascading Style Sheets 3
+-------------------------------------------------------------------------------------------------------------------------------
+*/
+@media screen and (max-device-width:320px){
+	header		{
+					background-color:aqua;
+					width:960px;
+				}
+	footer		{
+					background-color:aqua;
+					width:960px;
+				}
+	section		{
+					background-color:aqua;
+					width:960px;
+				}
+	#position	{
+					display:inline;
+				}
+}
+
+@media screen and (min-device-width:321px) and (max-device-width:375px)
+{
+	header		{
+					background-color:aqua;
+					width:960px;
+				}
+	footer		{
+					background-color:aqua;
+					width:960px;
+				}
+	section		{
+					background-color:aqua;
+					width:960px;
+				}
+	#position	{
+					display:inline;
+				}
+}
+
+@media screen and (min-device-width:376px) and (max-device-width:425px)
+{
+	header		{
+					background-color:aqua;
+					margin:0px 50px;
+					width:860px;
+				}
+	footer		{
+					background-color:aqua;
+					margin:0px 50px;
+					width:860px;
+				}
+	section		{
+					background-color:aqua;
+					margin:0px 50px;
+					width:860px;
+				}
+	#position	{
+					display:inline;
+				}
+}
+
+@media screen and (min-device-width:426px) and (max-device-width:768px)
+{
+	header		{
+					background-color:aqua;
+					margin:0px 100px;
+					width:760px;
+				}
+	footer		{
+					background-color:aqua;
+					margin:0px 100px;
+					width:760px;
+				}
+	section		{
+					background-color:aqua;
+					margin:0px 100px;
+					width:760px;
+				}
+	#position	{
+					display:inline;
+				}
+}
+
+@media screen and (min-device-width:769px) and (max-device-width:1024px)
+{
+	header		{
+					background-color:aqua;
+					margin:0px 120px;
+					width:760px;
+				}
+	footer		{
+					background-color:aqua;
+					margin:0px 120px;
+					width:760px;
+				}
+	section		{
+					background-color:aqua;
+					margin:0px 120px;
+					width:760px;
+				}
+	#position	{
+					display:inline;
+				}
+}
