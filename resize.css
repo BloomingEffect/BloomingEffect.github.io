@@ -135,3 +135,269 @@ My Story Begins - The Cascading Style Sheet
 					width:95%;
 				}
 }
+
+@media screen and (min-device-width:321px) and (max-device-width:375px){
+	#appContent1	{
+						border-style:solid;
+						border-width:1px;
+						display:inline-block;
+						font-size:4em;
+						left:2.25%;
+						margin-top:2%;
+						position:relative;
+						text-align:center;
+						width:95%;
+					}
+	#appContent2	{
+						border-style:solid;
+						border-width:1px;
+						bottom:4em;
+						display:block;
+						height:5em;
+						left:2.25%;
+						margin-top:2%;
+						padding:0px;
+						position:relative;
+						text-align:center;
+						width:95%;
+					}
+	#appProduct		{
+						font-size:2.05em;
+						left:2.25%;
+						padding:0%;
+						width:95%;
+					}
+	#description	{
+						bottom:4em;
+						left:2.25%;
+						height:145em;
+						margin:0%;
+						position:relative;
+						width:95%;
+					}
+	#firstname		{
+						font-size:4em;
+						height:1em;
+						margin:0px;
+						padding:0px;
+						position:relative;
+						left:0%;
+						width:35%;
+					}
+	footer	{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				position:relative;
+				left:0%;
+				width:100%;
+			}
+	header	{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				height:12.5em;
+				left:0%;
+				position:relative;
+				width:100%;
+			}
+	h1		{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				font-size:8.0em;
+				margin:0px;
+				position:relative;
+				text-align:center;
+				left:2.5%;
+				top:12%;
+			}
+	#letterSet01	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:1em;
+					}
+	#letterSet02	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:1.6em;
+					}
+	#letterSet03	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:2em;
+					}
+	#letterSet04	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:2.4em;
+					}
+	section	{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				height:auto;
+				margin:0%;
+				padding:0%;
+				position:relative;
+				left:0%;
+				width:100%;
+			}
+	#submitButton	{
+						font-size:1.5em;
+						height:2.85em;
+						position:relative;
+						margin:0px;
+						padding:0px;
+						width:18%;
+						bottom:0.55em;
+					}
+	#username	{
+					font-size:4em;
+					left:2.25%;
+					margin:0%;
+					top:0.6em;
+					width:95%;
+				}
+}
+
+@media screen and (min-device-width:376px) and (max-device-width:425px){
+	#appContent1	{
+						border-style:solid;
+						border-width:1px;
+						display:inline-block;
+						font-size:4em;
+						left:2.25%;
+						margin-top:2%;
+						position:relative;
+						text-align:center;
+						width:95%;
+					}
+	#appContent2	{
+						border-style:solid;
+						border-width:1px;
+						bottom:4em;
+						display:block;
+						height:5em;
+						left:2.25%;
+						margin-top:2%;
+						padding:0px;
+						position:relative;
+						text-align:center;
+						width:95%;
+					}
+	#appProduct		{
+						font-size:2.05em;
+						left:2.25%;
+						padding:0%;
+						width:95%;
+					}
+	#description	{
+						bottom:4em;
+						left:2.25%;
+						height:145em;
+						margin:0%;
+						position:relative;
+						width:95%;
+					}
+	#firstname		{
+						font-size:4em;
+						height:1em;
+						margin:0px;
+						padding:0px;
+						position:relative;
+						left:0%;
+						width:35%;
+					}
+	footer	{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				position:relative;
+				left:0%;
+				width:100%;
+			}
+	header	{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				height:12.5em;
+				left:0%;
+				position:relative;
+				width:100%;
+			}
+	h1		{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				font-size:8.0em;
+				margin:0px;
+				position:relative;
+				text-align:center;
+				left:2.5%;
+				top:12%;
+			}
+	#letterSet01	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:1em;
+					}
+	#letterSet02	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:1.6em;
+					}
+	#letterSet03	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:2em;
+					}
+	#letterSet04	{
+						font-size:4em;
+						height:8em;
+						margin:0%;
+						width:95%;
+						top:2.4em;
+					}
+	section	{
+				border-style:solid;
+				border-width:1px;
+				display:inline-block;
+				height:auto;
+				margin:0%;
+				padding:0%;
+				position:relative;
+				left:0%;
+				width:100%;
+			}
+	#submitButton	{
+						font-size:1.5em;
+						height:2.85em;
+						position:relative;
+						margin:0px;
+						padding:0px;
+						width:18%;
+						bottom:0.55em;
+					}
+	#username	{
+					font-size:4em;
+					left:2.25%;
+					margin:0%;
+					top:0.6em;
+					width:95%;
+				}
+}
